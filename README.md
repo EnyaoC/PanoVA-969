@@ -1,2 +1,2 @@
 # PanoVA-480
-PanoVA-480: A Panoramic Valence–Arousal Dataset and Reasoning-Augmented VLM Benchmark
+PanoVA-480: A VR-Annotated Benchmark for Panoramic Valence–Arousal Regression
