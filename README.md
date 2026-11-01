@@ -1,2 +1,2 @@
-# PanoVA-480
-PanoVA-480: A VR-Annotated Benchmark for Panoramic Valence–Arousal Regression
+PanoVA-969: Benchmarking Vision-Language Reasoning for Panoramic Valence-Arousal Regression.
+We will upload them here after the article is accepted.
